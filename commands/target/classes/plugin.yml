@@ -1,0 +1,22 @@
+name: commands
+version: '1.0'
+main: dev.begi.commands.Commands
+api-version: '1.20'
+commands:
+  kys:
+    description: kys lmao
+    usage: /kys
+  heal:
+    description: heals you :0
+    usage: /heal
+  feed:
+    description: feeds you :0
+    usage: /feed
+  god:
+    description: turn ON/OFF God mode
+    usage: /god
+    aliases:
+      - g
+  zuka:
+    description: zukad gadaqceva
+    usage: /zuka

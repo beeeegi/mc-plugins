@@ -1,0 +1,5 @@
+dev\begi\firstplugin\FirstPlugin.class
+dev\begi\firstplugin\listeners\Shearing.class
+dev\begi\firstplugin\listeners\JoinAndLeave.class
+dev\begi\firstplugin\listeners\XPBottle.class
+dev\begi\firstplugin\listeners\BedListeners.class
