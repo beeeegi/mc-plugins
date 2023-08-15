@@ -17,6 +17,3 @@ commands:
     usage: /god
     aliases:
       - g
-  zuka:
-    description: zukad gadaqceva
-    usage: /zuka
